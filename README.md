@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jocorrei)](https://github.com/anuraghazra/github-readme-stats)
+
 # PythonScraper_housing
 
 A simple Web scrapper. It will scan the Idealista web site and export to excel information about the houses being sold in Campolide, São-Domingos and Lumiar, in Lisbon.
